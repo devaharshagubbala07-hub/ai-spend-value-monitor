@@ -1,0 +1,14 @@
+{
+  "seed": 20260920,
+  "months": ["2026-06", "2026-07", "2026-08"],
+  "model_rates_usd_per_million_tokens": {
+    "Economy": {"input": 1, "output": 4},
+    "Extended": {"input": 4, "output": 12}
+  },
+  "departments": {
+    "Customer support": {"baseline_minutes": 12, "monthly_fee_usd": 140, "setup_fee_usd": 200},
+    "Document review": {"baseline_minutes": 22, "monthly_fee_usd": 180, "setup_fee_usd": 300},
+    "Internal research": {"baseline_minutes": 18, "monthly_fee_usd": 120, "setup_fee_usd": 200}
+  },
+  "notice": "All rates, fees, baselines, outcomes, and usage records are illustrative assumptions. Economy and Extended are fictional service labels, not real vendor benchmarks."
+}

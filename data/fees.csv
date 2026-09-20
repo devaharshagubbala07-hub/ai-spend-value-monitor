@@ -1,0 +1,10 @@
+department,month,license_cents,setup_cents
+Customer support,2026-06,14000,20000
+Document review,2026-06,18000,30000
+Internal research,2026-06,12000,20000
+Customer support,2026-07,14000,0
+Document review,2026-07,18000,0
+Internal research,2026-07,12000,0
+Customer support,2026-08,14000,0
+Document review,2026-08,18000,0
+Internal research,2026-08,12000,0
