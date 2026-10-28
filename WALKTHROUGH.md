@@ -1,6 +1,6 @@
 # Explain the business case
 
-This project was built with AI assistance. Run it, read the SQL, and modify an assumption before discussing it in an interview.
+A walkthrough of the AI-assisted synthetic model. Follow the SQL and change an assumption to inspect how the result depends on the model design.
 
 1. **Frame the current problem.** A low cost per token does not answer whether a business workflow is worthwhile.
 2. **Explain the grain.** A task can have retries, but it still counts as one attempted task. All its token costs remain included.
